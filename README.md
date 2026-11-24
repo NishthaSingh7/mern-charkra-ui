@@ -3,6 +3,9 @@
 ## Project name
 MERN Product Store (Chakra UI)
 
+## Year
+2025
+
 ## Purpose
 A full-stack product inventory app for creating, updating, deleting, and filtering products by category with a modern Chakra UI dashboard.
 
