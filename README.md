@@ -1,46 +1,27 @@
-# 🛒 MERN Product Store — Built with Chakra UI
+# mern-charkra-ui
 
-A sleek and responsive **Product Management Web App** built using the **MERN Stack** (MongoDB, Express, React, Node.js) and **Chakra UI** for modern styling.  
-Easily create, update, delete, and filter products by category — all from a smooth, minimal dashboard.
+## Project name
+MERN Product Store (Chakra UI)
 
----
+## Purpose
+A full-stack product inventory app for creating, updating, deleting, and filtering products by category with a modern Chakra UI dashboard.
 
-## 🚀 Features
-- 🧩 Full CRUD functionality  
-- 🎯 Category-based filtering (e.g., Gym, Gadgets, Clothing)  
-- 🪄 “Others” fallback for uncategorized items  
-- 🌗 Light & Dark mode with Chakra UI  
-- 🔔 Toast notifications for success/error  
-- 📱 Fully responsive UI  
+## Features
+- Full CRUD for products
+- Category-based filtering (Gym, Gadgets, Clothing, and Others)
+- Light and dark mode
+- Toast notifications for success and error states
+- Responsive UI
+- Zustand client state management
 
----
+## Tech Stack used
+- MongoDB
+- Express
+- React (Vite)
+- Node.js
+- Chakra UI
+- Zustand
 
-## ⚙️ Tech Stack
-**Frontend:** React + Chakra UI  
-**Backend:** Node.js + Express  
-**Database:** MongoDB  
-**State Management:** Zustand  
-
----
-
-## 🧠 Quick Start
-```bash
-# Clone the repository
-git clone https://github.com/your-username/mern-product-store.git
-cd mern-product-store
-
-# Install dependencies
-npm install
-cd frontend && npm install
-
-# Run frontend and backend
-npm run dev
-```
-🌐 Deployment
-
-Deployed on Render — serving both backend API and frontend under a single domain.
-
-💡 About
-
-A clean and scalable inventory management app made with the MERN stack, showcasing smooth UI/UX powered by Chakra UI.
-Built with ❤️ using MERN + Chakra UI
+## Project link
+Repository: https://github.com/NishthaSingh7/mern-charkra-ui  
+(Deployed historically on Render when configured for that environment)
